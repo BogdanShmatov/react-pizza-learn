@@ -3,8 +3,11 @@ import React from 'react'
 function SortPopup({items , onClickItem}) {
     const [visiblePopup, setVisiblePopup] = React.useState(false);
     const [activeItem, setActiveItem] = React.useState(0);
+
     const sortRef = React.useRef();
+    
     const activeLabel = items[activeItem];
+
     const onSelectItem = (index) => {
         setActiveItem(index);
         setVisiblePopup(false);

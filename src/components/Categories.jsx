@@ -2,7 +2,6 @@ import React from 'react'
 
 function Categories({ items, onClickItem }) {
 
-  // const [state, setState] = useState(null);
   const [activeItem, setActiveItem] = React.useState(null);
 
   const onSelectItem = (index) => {
