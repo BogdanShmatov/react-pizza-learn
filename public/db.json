@@ -92,6 +92,26 @@
       },
       {
         "id": 9,
+        "imageUrl": "https://cdn.dodostatic.net/static/Img/Products/21e6eaf8820d4642862eedc5f9e63aba_292x292.jpeg",
+        "name": "Овощи",
+        "types": [0, 1],
+        "sizes": [26, 30, 40],
+        "price": 285,
+        "category": 5,
+        "rating": 7
+      },
+      {
+        "id": 10,
+        "imageUrl": "https://cdn.dodostatic.net/static/Img/Products/Pizza/ru-RU/77c3701b-8ef4-4dbf-b028-e858a1d3e9d3.jpg",
+        "name": "Грибы",
+        "types": [0, 1],
+        "sizes": [26, 30, 40],
+        "price": 285,
+        "category": 5,
+        "rating": 7
+      },
+      {
+        "id": 11,
         "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/30367198-f3bd-44ed-9314-6f717960da07.jpg",
         "name": "Овощи и грибы 🌱",
         "types": [0, 1],
